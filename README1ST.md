@@ -19,7 +19,7 @@ Create c64 image program (prg)
   
 This will show a 4x4 matrix of images - each has a diffrent background colour set 
 Choose witch looks best (0 to 15) then us it like this:
-  # ./c64 w <image> <programname> background colour 
+  # ./c64 w <image> <programname> bg 
   
 Load on original Commodore 64 or 
   # x64 <image>
