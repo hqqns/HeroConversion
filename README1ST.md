@@ -1,5 +1,6 @@
-# HeroConversion - Hi I'm Sven (@hqqns on Twitter)
+# HeroConversion - Hi I'm Sven (@hqqns on Twitter) hqqns == subby upside down
 Convert images to vintage computer compatible formats - c64 and plus/4 - more comming
+Please tag me in your creations on twitter #c64hero or @hqqns - I'd love to see how it's being used :)
 
 PIL or Pillow python library required.
 
