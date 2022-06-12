@@ -3,7 +3,7 @@ Convert images to vintage computer compatible formats - c64 and plus/4 - more co
 
 PIL or Pillow python library required.
 
-Help is bellow and in a video - see below
+Help is below and in a video - see below
 
 -------------------------------------------------
 Create plus/4 image program (prg)
