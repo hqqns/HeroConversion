@@ -30,8 +30,10 @@ On c64:
 ---------------------------------------------------
 
 Video of Instructions:
+
 C64
 https://youtu.be/yKuhpNk13iY
+
 Plus4 
 https://youtu.be/SBV76EPazwg
   
