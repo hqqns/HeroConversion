@@ -1,4 +1,4 @@
-# Library to Convert any image to be Commodore Plus/4 compatible - Creates a prg file - start with SYS 3*4024 
+# Library to Convert any image to be Commodore Plus/4 compatible - Creates a prg file - start with SYS 3*4096    
 # Programs need to be loaded with ,[8 9 10 11],1 then can be started on any plus4 with the command "SYS 3*4096"
 #
 # Copyright (C) 2022 CE  Sven Wendler

@@ -84,7 +84,7 @@ class conv:
                     pali.append(np[a[0]*3+1])
                     pali.append(np[a[0]*3+2])
                     palr.append(a[0])
-                    if len(palr) == 4:
+                    if len(palr) == 3:
                         break
                 lpalr = len(palr)
                 if lpalr == 1:

@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-# Convert any image to be Commodore Plus/4 compatible - Creates a prg file - start with SYS 3*1024 
+# Convert any image to be Commodore Plus/4 compatible - Creates a prg file - start with SYS 3*4096
 #
 # Copyright (C) 2022 CE  Sven Wendler
 #
