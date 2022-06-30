@@ -49,6 +49,7 @@ def makeprogname(bg,imagename,progname):
 
     out=d.conv(pic,bg)
     d.writeprg(progname+".prg")
+    d.writeKoala(progname+".koa")
     out=d.showzoomed(out)
    # out.save("lagrandejatte.png")
 
