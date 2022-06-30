@@ -149,6 +149,19 @@ class conv:
 
         return npic 
 
+    def writeKoala(self,filename):
+        header=bytearray.fromhex('0060')
+        with open(filename, "wb") as f:
+            f.write(header)
+            f.write(self.bitmapram)
+            f.write(self.screenram)
+            f.write(self.colourram)
+            n=bytearray()
+            n.append(self.bc)
+            f.write(n)
+ #           self.writebin(filename)
+
+
     def writeprg(self, filename):
         bin="ABCtEEeNINCNIdCiAL1AP50ABL1AQJ0ABb1AQZ0ABr1AQp0AB70oQ50A2L0oRJ0A2b0oRZ0A2r0oRp0A2+jQzak7jRHQqRiNFtCpGI0Y0ExNEA=="
         prog=base64.b64decode(bin)
